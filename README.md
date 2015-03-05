@@ -1,2 +1,2 @@
 # a11yshowcase
-resources for building a showcase
+Resources for building a showcase are listed in the WIKI associated with this repository.
